@@ -225,7 +225,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](23, "p");
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](24, "THIS IS A PROD TEST BY JAAFAR ");
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](24, "THIS IS A UAT TEST BY JAAFAR ");
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
